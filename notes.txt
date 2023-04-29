@@ -1,0 +1,1 @@
+- done crud comments - models() - still crud company (just resource request and some methods)
